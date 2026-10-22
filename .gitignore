@@ -1,0 +1,9 @@
+# Ignore Terraform directories and state files
+**/.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+tfplan
+plan_output.txt.terraform.tfstate.lock.info
+crash.log
+*.zip
